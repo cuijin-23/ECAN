@@ -1,5 +1,7 @@
 # ECAN
-Code and data for COLING 2024 paper
+Code and data for COLING 2024 paper:
+
+Enhanced Coherence-Aware Network with Hierarchical Disentanglement for Aspect-Category Sentiment Analysis
 
 ### Requirements
 
