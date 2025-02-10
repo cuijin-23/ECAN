@@ -1,0 +1,10 @@
+wandb==0.10.12
+transformers==4.25.1
+scipy==1.5.0
+scikit-learn
+spacy
+stanfordcorenlp
+sentencepiece
+optuna
+numpy==1.19.2
+
